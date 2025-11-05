@@ -190,7 +190,7 @@
         "label": "Title"
       },
       {
-        "component": "text",
+        "component": "select",
         "name": "cta-banner_titleType",
         "label": "Title Type",
         "options": [
