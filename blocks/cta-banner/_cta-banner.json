@@ -31,7 +31,20 @@
             "component": "text",
             "name": "cta-banner_titleType",
             "label": "Title Type",
-            "valueType": "string"
+            "options": [
+            {
+              "name": "H1",
+              "value": "h1"
+            },
+            {
+              "name": "H2",
+              "value": "h2"
+            },
+            {
+              "name": "H3",
+              "value": "h3"
+            }
+          ]
           },
           {
             "component": "richtext",
