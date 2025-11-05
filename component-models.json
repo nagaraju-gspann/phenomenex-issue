@@ -193,7 +193,6 @@
         "component": "text",
         "name": "cta-banner_titleType",
         "label": "Title Type",
-        "hidden": true,
         "valueType": "string"
       },
       {
