@@ -31,8 +31,8 @@
           {
             "component": "text",
             "name": "cta-banner_titleType",
-            "hidden": true,
             "label": "Title Type",
+            "hidden": true,
             "valueType": "string"
           },
           {
