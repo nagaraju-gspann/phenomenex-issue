@@ -180,6 +180,54 @@
     ]
   },
   {
+    "id": "cta-banner",
+    "fields": [
+      {
+        "component": "text",
+        "valueType": "string",
+        "name": "cta-banner_title",
+        "value": "",
+        "label": "Title"
+      },
+      {
+        "component": "text",
+        "name": "cta-banner_titleType",
+        "hidden": true,
+        "label": "Title Type",
+        "valueType": "string"
+      },
+      {
+        "component": "richtext",
+        "name": "cta_description",
+        "value": "",
+        "label": "Description",
+        "valueType": "string"
+      },
+      {
+        "component": "reference",
+        "valueType": "string",
+        "name": "image",
+        "label": "Image",
+        "multi": false
+      },
+      {
+        "component": "select",
+        "name": "formPath",
+        "label": "Form Path",
+        "options": [
+          {
+            "name": "elouqa-form-webinars",
+            "value": "elouqa-form"
+          },
+          {
+            "name": "elouqa-form-training",
+            "value": "elouqa-training-form"
+          }
+        ]
+      }
+    ]
+  },
+  {
     "id": "fragment",
     "fields": [
       {
