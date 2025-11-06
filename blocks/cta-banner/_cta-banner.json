@@ -63,7 +63,7 @@
         {
             "component": "text",
             "valueType": "string",
-            "name": "cta-banner_title",
+            "name": "cta-banner",
             "value": "",
             "label": "Title Description"
           },
