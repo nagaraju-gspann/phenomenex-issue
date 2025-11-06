@@ -223,6 +223,13 @@
         "multi": false
       },
       {
+        "component": "text",
+        "valueType": "string",
+        "name": "cta-banner",
+        "value": "",
+        "label": "Title Description"
+      },
+      {
         "component": "select",
         "name": "formPath",
         "label": "Form Path",
