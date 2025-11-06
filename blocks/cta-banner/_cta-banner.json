@@ -74,7 +74,14 @@
               "value": "elouqa-training-form"
             }
           ]
-        }
+        },
+        {
+            "component": "text",
+            "valueType": "string",
+            "name": "cta-banner_titletext",
+            "value": "",
+            "label": "Title Text"
+          }
         ]
       }
     ],
